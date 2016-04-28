@@ -1,2 +1,2 @@
 # tool4J
-java的常用工具
+java的常用业务工具类
